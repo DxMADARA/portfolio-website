@@ -147,11 +147,6 @@ Explore my portfolio and learn more about my skills and projects. Feel free to p
 
 
 
-
-
-
-
-
 Azure Services Used –
 
 
@@ -169,9 +164,6 @@ Other Services Used –
 Bash Scripts
 
 
-
-
-
 Environment Used-
 
 VM – Linux (ubuntu 20.04)
@@ -180,23 +172,12 @@ System – Windows 11
 
 
 
-
-
 Project Walkthrough
-
-
-
 
 
 o	Create an Azure free account, sign into my Azure Portal
 
 o	Click on virtual machine tab, create virtual machine 
-
-
-
-
-
- 
 
 
 
@@ -551,3 +532,5 @@ Thank you for exploring my professional static portfolio website!
 
 
 Feel free to personalize the conclusion based on your specific project details and accomplishments.
+
+project documenti link :-https://docs.google.com/document/d/1e3a922Y0Np4UWur5CK51xeqzFfqEY7OP/edit?usp=drivesdk&ouid=116473538480265910071&rtpof=true&sd=true
