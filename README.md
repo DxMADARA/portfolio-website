@@ -1,11 +1,5 @@
-Project Statement
-
-
-
-Project Aim
-
- 
-
+<h1>Project Documentation</h1>
+<h3>Project title : Portfolio website </h3>
 Project Aim: Crafting a Professional Static Portfolio Website
 
 
@@ -61,14 +55,7 @@ Feedback Integration: Incorporate a feedback mechanism to gather insights from v
 The goal is to create a static portfolio website that not only effectively represents my skills and accomplishments but also delivers a seamless and engaging experience for anyone exploring the content.
 
 
-
-
-
-Description 
-
-
-
- 	Project Description: Professional Static Portfolio Website
+Project Description: Professional Static Portfolio Website
 
 
 
@@ -217,46 +204,13 @@ Virtual network/subnet: portfolio-vnet/default
 
 DNS name: Not configured 
 
- 
-
-
-
-
-
-
 
 Connect to virtual machines
 
 There are several ways to access your Azure virtual machines. The Azure portal supports options for connecting your Windows and Linux machines, and making connections by using Azure Bastion. The following diagram shows how you can connect Azure virtual machines with the SSH and RDP protocols, Cloud Shell, and Azure Bastion.
 
- 
-
-Commands 
-
- 
-
-
 
 Why we used it :- For creating docker image
-
-
-
-
-
-                                               This is Repositories
-
-
-
- 
-
-
-
-    This is container registry
-
-
-
- 
-
 
 
 Step 1: Create an Azure Container Registry
@@ -330,20 +284,11 @@ Build Docker Image:
 Navigate to your project directory containing the Dockerfile and run: bash
 
 
-
-
-
 dockerbuild-t<your-registry-name>.azurecr.io/<image-name>:<tag> .
 
 Push Docker Image:
 
 Push the Docker image to Azure Container Registry:
-
-
-
-bash
-
-
 
 docker push<your-registry-name>.azurecr.io/<image-name>:<tag>
 
@@ -351,19 +296,9 @@ Step 4: Pull Docker Image for Deployment
 
 Login to ACR (if not already logged in):
 
-
-
-bash
-
-
-
 docker login <your-registry-name>.azurecr.io -u <username> -p <password>
 
 Pull Docker Image:
-
-
-
-bash
 
 docker pull <your-registry-name>.azurecr.io/<image-name>:<tag>
 
@@ -376,85 +311,7 @@ Integrate the pulled Docker image into your deployment process, whether it's dep
 These steps provide a basic overview of using Azure Container Registry with Docker. Depending on your specific use case and deployment scenario, you might need to adapt these steps. Always refer to the official Azure Container Registry documentation for the most up-to-date information and detailed instructions.
 
 
-
-
-
-
-
-
-
-
-
 NOW COPY THE IP AND PASTE IT ON NEW TAB
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-                                         OUTPUT
-
-
-
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-                                                   About Me
-
-
-
- 
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
-
-                                            SKILL SECTION
-
-
-
-
-
- 
-
-
-
-
-
-
-
 
 
 Project Conclusion: Professional Static Portfolio Website
@@ -516,11 +373,6 @@ Feature Enhancements: Exploring opportunities to add new features or interactive
 Feedback Integration: Continuously seeking and incorporating feedback from visitors to refine and improve the overall user experience.
 
 
-
-
-
-
-
 Gratitude
 
 I would like to express my gratitude to anyone who has visited and interacted with my portfolio. Your feedback and support are invaluable and contribute to the ongoing refinement of this representation of my professional journey.
@@ -532,5 +384,19 @@ Thank you for exploring my professional static portfolio website!
 
 
 Feel free to personalize the conclusion based on your specific project details and accomplishments.
+
+
+<h2>Project Screenshots</h2>
+<img src="Screenshot (901).png"></img>
+<img src="Screenshot (902).png"></img>
+<img src="Screenshot (903).png"></img>
+<img src="Screenshot (904).png"></img>
+<img src="Screenshot (905).png"></img>
+<img src="Screenshot (906).png"></img>
+<img src="Screenshot (907).png"></img>
+<img src="Screenshot (908).png"></img>
+<img src="Screenshot (909).png"></img>
+<img src="Screenshot (910).png"></img>
+
 
 project documenti link :-https://docs.google.com/document/d/1e3a922Y0Np4UWur5CK51xeqzFfqEY7OP/edit?usp=drivesdk&ouid=116473538480265910071&rtpof=true&sd=true
